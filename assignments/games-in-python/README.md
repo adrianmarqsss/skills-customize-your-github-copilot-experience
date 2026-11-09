@@ -1,35 +1,35 @@
-# 📘 Assignment: Hangman Game
+# 📘 Atividade: Jogo da Forca
 
-## 🎯 Objective
+## 🎯 Objetivo
 
-Build a classic word-guessing game in Python while practicing string manipulation, loops, conditionals, and user input handling.
+Construir um jogo clássico de adivinhação de palavras em Python, praticando manipulação de strings, loops, condicionais e entrada de dados do usuário.
 
-## 📝 Tasks
+## 📝 Tarefas
 
-### 🛠️ Build the Hangman game
+### 🛠️ Criar o jogo da forca
 
 #### Descrição
-Create a terminal-based Hangman game where the player guesses letters to reveal a hidden word before running out of attempts.
+Crie um jogo da forca em terminal em que o jogador adivinha letras para revelar uma palavra oculta antes de esgotar as tentativas.
 
 #### Requisitos
 O programa concluído deve:
 
-- Select a random word from a predefined list of words
-- Accept single-letter guesses from the user and show the current progress in the form _ _ _
-- Track the number of incorrect guesses remaining
-- Stop the game when the word is fully guessed or when the player runs out of attempts
-- Display clear win and loss messages at the end of the game
-- Prevent repeated guesses and show feedback for correct and incorrect letters
+- Selecionar uma palavra aleatória de uma lista predefinida
+- Aceitar palpites de letras e mostrar o progresso atual no formato _ _ _
+- Rastrear quantas tentativas erradas restam
+- Encerrar o jogo quando a palavra for adivinhada ou quando as tentativas acabarem
+- Exibir mensagens claras de vitória e derrota ao final
+- Impedir letras repetidas e mostrar feedback para acertos e erros
 
-### 🛠️ Improve the gameplay experience
+### 🛠️ Melhorar a experiência de jogo
 
 #### Descrição
-Add small improvements to make the game clearer, more engaging, and easier to play.
+Adicione pequenas melhorias para deixar o jogo mais claro, mais interessante e mais fácil de jogar.
 
 #### Requisitos
 O programa concluído deve:
 
-- Show the letters already guessed by the player
-- Display the current state of the hangman or a simple attempt counter
-- Keep the game loop running until the user decides to stop
-- Use readable prompts and messages in the terminal output
+- Mostrar as letras já tentadas pelo jogador
+- Exibir o estado atual da forca ou um contador simples de tentativas
+- Manter o loop do jogo até que o usuário decida encerrar
+- Usar mensagens e prompts legíveis no terminal
